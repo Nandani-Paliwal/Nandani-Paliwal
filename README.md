@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nandani-Paliwal&label=Profile%20views&color=0e75b6&style=flat" alt="Nandani-Paliwal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Nandanipaliwal" target="blank"><img src="https://img.shields.io/twitter/follow/Nandani4678?logo=twitter&style=for-the-badge" alt="Nandani Paliwal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Nandanipaliwal" target="blank"><img src="https://img.shields.io/twitter/follow/Nandanipaliwal?logo=twitter&style=for-the-badge" alt="Nandani Paliwal" /></a> </p>
 
 - 🔭 currently **a Sophomore from Bundelkhand University**
 
