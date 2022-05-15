@@ -18,7 +18,7 @@
 <p align="left">
 <a href= "https://twitter.com/nandanipaliwal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nandani Paliwal" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nandanipaliwal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandani paliwal" height="30" width="40" /></a>
-<a href="https://instagram.com/paliwal.nandani?utm_medium=copy_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nandani Paliwal" height="30" width="40" /></a>
+<a href="https://instagram.com/paliwal.nandani?utm_medium=copy_link" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nandani Paliwal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
