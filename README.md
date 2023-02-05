@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/Nandanipaliwal" target="blank"><img src="https://img.shields.io/twitter/follow/Nandanipaliwal?logo=twitter&style=for-the-badge" alt="Nandani Paliwal" /></a> </p>
 
-- 🔭 currently **a Sophomore from Bundelkhand University**
+- 🔭 currently **a Senior from Bundelkhand University**
 
 - 🌱 I’m currently learning **Web development**
 
-- 📫 How to reach me **paliwalnandani12@gmail.com**
+- 📫 How to reach me **reach.nandanipaliwal@gmail.com**
 
 - ⚡ Fun fact **Love to play Chess**
 
