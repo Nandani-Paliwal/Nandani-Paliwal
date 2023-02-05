@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 📫 How to reach me **reach.nandanipaliwal@gmail.com**
+- 📫 How to reach me **paliwalnandani12@gmail.com**
 
 - ⚡ Fun fact **Love to play Chess**
 
