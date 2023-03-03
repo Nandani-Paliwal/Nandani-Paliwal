@@ -16,8 +16,8 @@
 
 <h3 align="center">Connect with me:</h3><br>
 <p align="center">
-<a href= "https://twitter.com/nandanipaliwal" target="_blank"><img align="center" src="./assets/twitter.svg" alt="nandani Paliwal" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/nandanipaliwal" target="_blank"><img align="center" src="./assets/linkedin.svg" alt="nandani paliwal" height="50" width="50" /></a>
+<a href= "https://twitter.com/nandanipaliwal" target="_blank"><img align="center" src="./assets/twitter.svg" alt="nandani Paliwal" height="50" width="50" /></a><tr>
+<a href="https://www.linkedin.com/in/nandanipaliwal" target="_blank"><img align="center" src="./assets/linkedin.svg" alt="nandani paliwal" height="50" width="50" /></a><tr>
 <a href="https://instagram.com/paliwal.nandani?utm_medium=copy_link" target="_blank"><img align="center" src="./assets/instagram.svg" height="50" width="50" /></a>
 </p><br>
 
