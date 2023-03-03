@@ -16,18 +16,18 @@
 
 <h3 align="center">Connect with me:</h3><br>
 <p align="center">
-<a href= "https://twitter.com/nandanipaliwal" target="_blank"><img align="center" src="./assets/twitter.svg" alt="nandani Paliwal" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/nandanipaliwal" target="_blank"><img align="center" src="./assets/linkedin.svg" alt="nandani paliwal" height="40" width="40" /></a>
-<a href="https://instagram.com/paliwal.nandani?utm_medium=copy_link" target="_blank"><img align="center" src="./assets/instagram.svg" height="40" width="40" /></a>
+<a href= "https://twitter.com/nandanipaliwal" target="_blank"><img align="center" src="./assets/twitter.svg" alt="nandani Paliwal" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/nandanipaliwal" target="_blank"><img align="center" src="./assets/linkedin.svg" alt="nandani paliwal" height="50" width="50" /></a>
+<a href="https://instagram.com/paliwal.nandani?utm_medium=copy_link" target="_blank"><img align="center" src="./assets/instagram.svg" height="50" width="50" /></a>
 </p><br>
 
 <h3 align="center" font-weight="400">Languages and Tools:</h3><br>
 <p align="center">
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="./assets/c++.svg" alt="C++" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/html/" taget="_blank" rel="noreferrer"> <img src="./assets/html5.svg" alt="html" width="50" height="50"/></a>
+<a href="https://www.w3schools.com/html/" taget="_blank" rel="noreferrer"> <img src="./assets/html.svg" alt="html" width="50" height="50"/></a>
 <a href="https://www.w3schools.com/css/" taget="_blank" rel="noreferrer"> <img src="./assets/CSS3.svg" alt="css" width="50" height="50"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="./assets/figma.svg" alt="figma" width="50" height="50"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./assets/javascript.svg" alt="javascript" width="50" height="50"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./assets/js.svg" alt="javascript" width="50" height="50"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/react.svg" alt="react" width="50" height="50"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="./assets/tailwind-css.svg" alt="tailwind" width="50" height="50"/> </a> 
 
