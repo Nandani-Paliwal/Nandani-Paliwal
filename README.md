@@ -23,15 +23,14 @@
 
 <h3 align="center" font-weight="400">Languages and Tools:</h3><br>
 <p align="center">
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="./assets/c++.svg" alt="C++" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/html/" taget="_blank" rel="noreferrer"> <img src="./assets/html.svg" alt="html" width="50" height="50"/></a>
-<a href="https://www.w3schools.com/css/" taget="_blank" rel="noreferrer"> <img src="./assets/CSS3.svg" alt="css" width="50" height="50"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="./assets/figma.svg" alt="figma" width="50" height="50"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./assets/js.svg" alt="javascript" width="50" height="50"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/react.svg" alt="react" width="50" height="50"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="./assets/tailwind-css.svg" alt="tailwind" width="50" height="50"/> </a> 
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./assets/git.svg" alt="git" width="50" height="50"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="./assets/c++.svg" alt="C++" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/html/" taget="_blank" rel="noreferrer"> <img src="./assets/html.svg" alt="html" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" taget="_blank" rel="noreferrer"> <img src="./assets/CSS3.svg" alt="css" width="40" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="./assets/figma.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./assets/js.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./assets/react.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="./assets/tailwind-css.svg" alt="tailwind" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./assets/git.svg" alt="git" width="40" height="40" align="center"/> </a> 
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nandani-Paliwal&show_icons=true&locale=en&layout=compact" alt="Nandani-Paliwal" /></p>
